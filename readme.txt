@@ -1,31 +1,12 @@
-Free Responsive HTML5 Bootstrap Template
+TULSHIDAS AVHAD CONSULTANCY SERVICES
 
-Ninja business consulting html responsive web template is a best flat clean and modern responsive HTML5 Bootstrap template for corporate consulting business profile. This theme has a elegant modern look, very easy to customize It’s provided with an nice responsive layer slider. This theme is fully responsive build on top of Bootstrap using HTML5 CSS3. Great for Corporate business, consulting office, Agency, portfolio and many more.  
+Hii there, I am Tulshidas Avhad
+An Experienced Head Of Product Management (Ion Exchange ResinsAnd it’s applications) with a demonstrated history of working in the ion exchange and its applications in different industries.
 
-Key features
--------------
-Twitter Bootstrap 3.3.1
-Clean & Developer-friendly HTML5 and CSS3 code
-100% Responsive Layout Design 
-Multi-purpose theme
-Google Fonts Support
-Font Awesome 
-Smooth Scrolling 
-Fully Customizable
-Contact Form
+I have been working in the ion exchange resin applications domain for more than 3 decades. I was associated with Scientific Design Inc. USA as a consultant for 6 years (from September 2016 to June 2022) for performance evaluation of resins through piloting, data interpretation and conclusions. I was earlier working at Thermax Ltd from 1991 and was Global Head (Product Management Group) until leaving in 2016.  
+ 
+We offer a complete suite of Consultancy Services encompassing design, engineering, application development, training, commissioning, troubleshooting and after-sales services. Our global experience and network enable us to undertake business development, product roadmaps, engagement strategies and services in the field of resins.     
 
-Credits :
--------
-=> Design and developed: "WebThemez"  http://webthemez.com
-=> Photos used in template: **Unsplash** - http://unsplash.com
-=> For more free web themes: http://webthemez.com
-=> Framework : http://getbootstrap.com
-=> For more help: webthemez@gmail.com
-=> Do not remove the back-link from site. If you want remove back-link please donate some bucks.
+I am skilled in Manufacturing, Management, Account Management, Solution Selling, and Marketing. Strong business development professional with a Master of Science (MSc) focused in Chemistry from Ahmednagar college PUNE University. In the beginning of career worked as Lecturer Polytechnic engineering College in Application Chemistry. 
 
-License :
--------
-**Creative Commons Attribution 3.0** - http://creativecommons.org/licenses/by/3.0/
-
-Note:
-All images user here is for demo purpose only, we are not responsible for any copyrights.
+This repository contains my portfolio website of the consultancy services we provide under TACS.
