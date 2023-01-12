@@ -32,7 +32,7 @@ h1,h2, h3, h4, h5, h6 {
 	color:#333;
 	margin-bottom: 20px;
 }
- 
+
 .container {
 	padding:0 20px 0 20px;
 	position:relative;
@@ -64,7 +64,7 @@ img.img-polaroid {
 }
 /*  Header
 ==================================== */
- 
+
 header .navbar {
     margin-bottom: 0;
 }
@@ -115,7 +115,7 @@ header .nav li.active ul.dropdown-menu li.active a{
 header .nav li.active a,
 header .nav li.active a:hover{
     border-bottom: transparent;
- 
+
 }
 header .navbar-default .navbar-nav > .open > a,
 header .navbar-default .navbar-nav > .open > a:hover,
@@ -163,12 +163,12 @@ header .nav .caret {
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
-  background-color: #fff;
+	background-color: #fff;
 }
 .navbar-default .navbar-nav > .open > a,
 .navbar-default .navbar-nav > .open > a:hover,
 .navbar-default .navbar-nav > .open > a:focus {
-  background-color:  #fff;
+	background-color:  #fff;
 }	
 	
 
@@ -184,12 +184,12 @@ header .nav .caret {
 }
 
 header .nav li .dropdown-menu  {
-   padding: 0;
+	padding: 0;
 }
 
 header .nav li .dropdown-menu li a {
-   line-height: 28px;
-   padding: 3px 12px;
+	line-height: 28px;
+	padding: 3px 12px;
 }
 
 /* --- menu --- */
@@ -219,9 +219,9 @@ header ul.nav li ul li a {
 
 
 .navbar .nav > li > a {
-  color: #333;
-  text-shadow: none;
-  border: 1px solid rgba(255, 255, 255, 0) !important;
+	color: #333;
+	text-shadow: none;
+	border: 1px solid rgba(255, 255, 255, 0) !important;
 }
 
 .navbar .nav a:hover {
@@ -258,12 +258,12 @@ header ul.nav li ul li ul {
 }
 
 .navbar .nav > li > .dropdown-menu:before {
-  display: inline-block;
-  border-right: none;
-  border-bottom: none;
-  border-left: none;
-  border-bottom-color: none;
-  content:none;
+	display: inline-block;
+	border-right: none;
+	border-bottom: none;
+	border-left: none;
+	border-bottom-color: none;
+	content:none;
 }
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
 color: #C22731;  
@@ -275,7 +275,7 @@ ul.nav li.dropdown a {
 	display:block;
 }
 
- select.selectmenu {
+select.selectmenu {
 	display:none;
 }
 .pageTitle{
@@ -286,7 +286,7 @@ font-size: 20px;
 padding: 14px 0;
 font-weight: normal;
 }
- 
+
 #featured{
 	width: 100%;
 	background:#000;
@@ -325,14 +325,15 @@ border-radius:0;
 	zoom: 1;
 }
 .slides li:nth-child(1){
-background:#c22731;
+background: none;
 }
 .slides li:nth-child(2){
-background:#175e8b;
+background:none;
 }
 .slides li:nth-child(3){
-background:#a37826;
+background:none;
 }
+
 .flexslider .slides img {
     width: auto;
     display: block;
@@ -1524,7 +1525,7 @@ article img.pull-right, article .align-right{
 	float:right;
 	margin:5px 0 15px 15px;
 }
- ============================= */
+ /*============================= */
 
 .clear-marginbot{
 	margin-bottom:0;
