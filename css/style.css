@@ -129,13 +129,13 @@ header .navbar-default .navbar-nav > .open > a:focus {
 
 
 header .navbar {
-    min-height: 70px; 
-	padding:18px 0;
+    min-height: 100px; 
+	padding:25px 50;
 }
 
 header .navbar-nav > li  {
-    padding-bottom: 12px;
-    padding-top: 12px;
+    padding-bottom: 10px;
+    padding-top: 20px;
 }
 
 header  .navbar-nav > li > a {
@@ -204,7 +204,7 @@ header ul.nav li {
 }
 
 header ul.nav li a {	
-	font-size: 13px;
+	font-size: 15px;
 	border:none;
 	font-weight: normal;
 	text-transform:uppercase;
@@ -900,7 +900,7 @@ margin-bottom: 15px;
 }
 .info-blocks i.icon-info-blocks {
 float: left;
-color: #C22731;
+color: #59ca9d;
 font-size: 35px;
 min-width: 50px;
 margin-top: 5px;

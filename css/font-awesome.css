@@ -14,7 +14,7 @@
 .fa {
   display: inline-block;
   font-family: FontAwesome;
-  font-style: normal;
+  font-style: serif;
   font-weight: normal;
   line-height: 1;
   -webkit-font-smoothing: antialiased;
@@ -22,21 +22,21 @@
 }
 /* makes the font 33% larger relative to the icon container */
 .fa-lg {
-  font-size: 1.3333333333333333em;
+  font-size: 6.3333333333333333em;
   line-height: 0.75em;
   vertical-align: -15%;
 }
 .fa-2x {
-  font-size: 2em;
+  font-size: 5em;
 }
 .fa-3x {
-  font-size: 3em;
+  font-size: 6em;
 }
 .fa-4x {
-  font-size: 4em;
+  font-size: 7em;
 }
 .fa-5x {
-  font-size: 5em;
+  font-size: 8em;
 }
 .fa-fw {
   width: 1.2857142857142858em;
@@ -182,7 +182,7 @@
   line-height: inherit;
 }
 .fa-stack-2x {
-  font-size: 2em;
+  font-size: 3em;
 }
 .fa-inverse {
   color: #ffffff;
@@ -199,6 +199,7 @@
   content: "\f002";
 }
 .fa-envelope-o:before {
+  font-size: 3em;
   content: "\f003";
 }
 .fa-heart:before {
@@ -562,6 +563,7 @@
   content: "\f081";
 }
 .fa-facebook-square:before {
+  font-size: 3em;
   content: "\f082";
 }
 .fa-camera-retro:before {
@@ -593,6 +595,7 @@
   content: "\f08b";
 }
 .fa-linkedin-square:before {
+  font-size: 3em;
   content: "\f08c";
 }
 .fa-thumb-tack:before {
@@ -629,9 +632,11 @@
   content: "\f098";
 }
 .fa-twitter:before {
+  font-size: 3em;
   content: "\f099";
 }
 .fa-facebook:before {
+  font-size: 3em;
   content: "\f09a";
 }
 .fa-github:before {
@@ -647,7 +652,7 @@
   content: "\f09e";
 }
 .fa-hdd-o:before {
-  content: "\f0a0";
+  content: "\f0a2";
 }
 .fa-bullhorn:before {
   content: "\f0a1";
@@ -802,6 +807,7 @@
   content: "\f0e0";
 }
 .fa-linkedin:before {
+  font-size: 3em;
   content: "\f0e1";
 }
 .fa-rotate-left:before,
@@ -859,6 +865,9 @@
 }
 .fa-bell-o:before {
   content: "\f0a2";
+}
+.fa-atom-simple:before{
+  content: "\f5d3";
 }
 .fa-coffee:before {
   content: "\f0f4";
